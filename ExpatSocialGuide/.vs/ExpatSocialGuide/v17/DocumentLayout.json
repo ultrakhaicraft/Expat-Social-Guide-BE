@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\api\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|solutionrelative:api\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\configurations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\configurations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\configurations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\configurations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\configurations\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\configurations\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\configurations\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\configurations\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\persistence\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\persistence\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\persistence\\esgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\persistence\\esgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\infratructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428BFA-0BE7-4AB3-A2F2-90A59FD5DB10}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBD59B4-F069-4B7E-A677-351B2A2DAE8D}|Application\\Application.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBD59B4-F069-4B7E-A677-351B2A2DAE8D}|Application\\Application.csproj|solutionrelative:application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|d:\\study\\ki9\\expat-social-guide-be\\expatsocialguide\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E08546A5-92B6-4566-A01C-48FE9EB81E9E}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "API\\Response\\ApiResponse.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "API\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:39:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Configurations\\UnitOfWork.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\UnitOfWork.cs",
+              "RelativeToolTip": "Infratructure\\Configurations\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:37:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\Repository.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Configurations\\Repository.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\Repository.cs",
+              "RelativeToolTip": "Infratructure\\Configurations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:37:20.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Configurations\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\IUnitOfWork.cs",
+              "RelativeToolTip": "Infratructure\\Configurations\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:37:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\IRepository.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Configurations\\IRepository.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Configurations\\IRepository.cs",
+              "RelativeToolTip": "Infratructure\\Configurations\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:37:02.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T15:12:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjections.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\DependencyInjections.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjections.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\DependencyInjections.cs",
+              "RelativeToolTip": "Application\\DependencyInjections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:26:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjections.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\DependencyInjections.cs",
+              "RelativeDocumentMoniker": "Infratructure\\DependencyInjections.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\DependencyInjections.cs",
+              "RelativeToolTip": "Infratructure\\DependencyInjections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:25:31.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ESGDBContext.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Persistence\\ESGDBContext.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Persistence\\ESGDBContext.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Persistence\\ESGDBContext.cs",
+              "RelativeToolTip": "Infratructure\\Persistence\\ESGDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:22:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAASwMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:12:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Persistence\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Persistence\\DatabaseConfiguration.cs",
+              "ToolTip": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Persistence\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "Infratructure\\Persistence\\DatabaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:21:09.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
