@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj": {}
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj": {
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj",
+        "projectUniqueName": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\obj\\",
+        "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,17 +32,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj"
               },
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
               },
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj"
               },
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
               }
             }
           }
@@ -63,6 +63,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.16, )"
@@ -101,24 +105,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj": {
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\obj\\",
+        "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -133,11 +137,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
               },
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj"
               }
             }
           }
@@ -157,6 +161,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.70.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -173,24 +187,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\obj\\",
+        "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -205,8 +219,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
               }
             }
           }
@@ -226,6 +240,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -242,24 +262,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj",
+        "projectUniqueName": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj",
         "projectName": "Infratructure",
-        "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\obj\\",
+        "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\Infratructure.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Infratructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -274,11 +294,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj"
               },
-              "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
+              "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj"
               }
             }
           }
@@ -302,6 +322,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[14.0.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -330,6 +358,10 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.6.7, )"
             }
           },
           "imports": [
@@ -348,24 +380,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
+    "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
+        "projectUniqueName": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\obj\\",
+        "projectPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -397,6 +429,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -413,7 +451,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

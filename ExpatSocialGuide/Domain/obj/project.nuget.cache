@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SKoqm2i2cK0=",
+  "dgSpecHash": "KWmfnS5tKFY=",
   "success": true,
-  "projectFilePath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.16\\microsoft.entityframeworkcore.abstractions.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

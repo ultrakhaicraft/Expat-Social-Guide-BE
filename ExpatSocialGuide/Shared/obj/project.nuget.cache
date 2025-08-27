@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hS7TBNGTI3I=",
+  "dgSpecHash": "e+ZuGChwJpw=",
   "success": true,
-  "projectFilePath": "D:\\Study\\ki9\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\DoAn\\BE\\version1\\Expat-Social-Guide-BE\\ExpatSocialGuide\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
